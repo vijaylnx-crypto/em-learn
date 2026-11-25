@@ -1,0 +1,3293 @@
+{
+ "source": "https://github.com/engineering-management/awesome-engineering-management",
+ "license": "CC0-1.0",
+ "generatedAt": "2026-11-25T08:49:31.044Z",
+ "stats": {
+  "topics": 57,
+  "links": 357
+ },
+ "tracks": [
+  {
+   "id": "practicing",
+   "title": "Practicing",
+   "areas": [
+    {
+     "id": "practicing-models-and-methodologies",
+     "title": "Models and Methodologies",
+     "topics": [
+      {
+       "id": "practicing-models-and-methodologies-agile",
+       "title": "Agile",
+       "links": [
+        {
+         "id": "1vqoe7q",
+         "title": "Manifesto",
+         "url": "http://agilemanifesto.org/",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "1nun10z",
+         "title": "Patterns",
+         "url": "https://sites.google.com/site/agilepatterns/",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "1n9p5es",
+         "title": "Glossary",
+         "url": "https://www.agilealliance.org/agile101/agile-glossary/",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "ucfjqo",
+         "title": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Agile_software_development",
+         "desc": "",
+         "group": null,
+         "kind": "wiki"
+        },
+        {
+         "id": "1wasaey",
+         "title": "History and background",
+         "url": "https://martinfowler.com/articles/newMethodology.html",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "1yeyabn",
+         "title": "Steering body",
+         "url": "https://www.agilealliance.org/",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "1min9uf",
+         "title": "Agile Practice Guide",
+         "url": "https://www.amazon.com/Agile-Practice-Project-Management-Institute/dp/1628251999",
+         "desc": "",
+         "group": "Books",
+         "kind": "book"
+        },
+        {
+         "id": "1ehzfto",
+         "title": "PMBOK: A Guide to the Project Management Body of Knowledge",
+         "url": "https://www.amazon.com/Project-Management-Knowledge-PMBOK%C2%AE-Sixth/dp/1628251840",
+         "desc": "",
+         "group": "Books",
+         "kind": "book"
+        },
+        {
+         "id": "rwt2ao",
+         "title": "Essential Scrum: A Practical Guide to the Most Popular Agile Process",
+         "url": "https://www.amazon.com/Essential-Scrum-Practical-Addison-Wesley-Signature/dp/0137043295",
+         "desc": "",
+         "group": "Books",
+         "kind": "book"
+        },
+        {
+         "id": "17mh79x",
+         "title": "Agile Product Management with Scrum",
+         "url": "https://www.amazon.com/Agile-Product-Management-Scrum-Addison-Wesley/dp/0321605780",
+         "desc": "",
+         "group": "Books",
+         "kind": "book"
+        },
+        {
+         "id": "1ly0l0e",
+         "title": "Learning Agile: Understanding Scrum, XP, Lean, and Kanban",
+         "url": "https://www.amazon.com/Learning-Agile-Understanding-Scrum-Kanban/dp/1449331920",
+         "desc": "",
+         "group": "Books",
+         "kind": "book"
+        },
+        {
+         "id": "1uqpm82",
+         "title": "Scrum: The Art of Doing Twice the Work in Half the Time",
+         "url": "https://www.amazon.com/Scrum-Doing-Twice-Work-Half/dp/1847941109/133-3474474-6617213?psc=1",
+         "desc": "",
+         "group": "Books",
+         "kind": "book"
+        },
+        {
+         "id": "12ldhbe",
+         "title": "Agile Retrospectives: Making Good Teams Great",
+         "url": "https://www.amazon.com/Agile-Retrospectives-Making-Teams-Great/dp/0977616649/133-3474474-6617213?psc=1",
+         "desc": "",
+         "group": "Books",
+         "kind": "book"
+        }
+       ]
+      },
+      {
+       "id": "practicing-models-and-methodologies-rapid-application-development",
+       "title": "Rapid application development",
+       "links": [
+        {
+         "id": "l4llt",
+         "title": "Introduction",
+         "url": "https://ncube.com/blog/what-is-rapid-application-development",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "45gvia",
+         "title": "Tools",
+         "url": "https://marutitech.com/rapid-application-development-tools/",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "13l24yy",
+         "title": "Rapid Development: Taming Wild Software Schedules",
+         "url": "https://www.amazon.com/Rapid-Development-Taming-Software-Schedules/dp/1556159005/ref=sr_1_1?dchild=1&keywords=rapid+application+development&qid=1623329004&sr=8-1",
+         "desc": "",
+         "group": "Books",
+         "kind": "book"
+        },
+        {
+         "id": "16w383i",
+         "title": "Rapid application development (RAD): an empirical review",
+         "url": "https://www.tandfonline.com/doi/abs/10.1057/palgrave.ejis.3000325",
+         "desc": "",
+         "group": "Papers",
+         "kind": "paper"
+        },
+        {
+         "id": "1r6e3m1",
+         "title": "The utility of rapid application development in large‐scale, complex projects",
+         "url": "https://www.academia.edu/download/46943510/j.1365-2575.2009.00329.x20160701-21245-1lkp7e3.pdf",
+         "desc": "",
+         "group": "Papers",
+         "kind": "paper"
+        },
+        {
+         "id": "v2f353",
+         "title": "Rapid Application Development: rough and dirty or value-for-money engineering?",
+         "url": "https://dl.acm.org/doi/fullHtml/10.1145/570907.570925",
+         "desc": "",
+         "group": "Papers",
+         "kind": "paper"
+        },
+        {
+         "id": "1izckuq",
+         "title": "Risks of rapid application development",
+         "url": "https://www.academia.edu/download/43403319/RAD_risks.pdf",
+         "desc": "",
+         "group": "Papers",
+         "kind": "paper"
+        },
+        {
+         "id": "duzeqm",
+         "title": "A quality software process for rapid application development",
+         "url": "http://doras.dcu.ie/18419/1/Gerard_Coleman.pdf",
+         "desc": "",
+         "group": "Papers",
+         "kind": "paper"
+        },
+        {
+         "id": "1yutikv",
+         "title": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Rapid_application_development",
+         "desc": "",
+         "group": null,
+         "kind": "wiki"
+        }
+       ]
+      },
+      {
+       "id": "practicing-models-and-methodologies-extreme-programming",
+       "title": "Extreme programming",
+       "links": [
+        {
+         "id": "wj1eld",
+         "title": "Manifesto",
+         "url": "http://www.extremeprogramming.org",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "1rymx24",
+         "title": "Process Model",
+         "url": "http://www.extremeprogramming.org/rules.html",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "4qvasr",
+         "title": "Extreme Programming Explained",
+         "url": "https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658",
+         "desc": "",
+         "group": "Books",
+         "kind": "book"
+        },
+        {
+         "id": "1y999yw",
+         "title": "Extreme Programming Applied",
+         "url": "https://www.amazon.com/Extreme-Programming-Applied-Playing-Win/dp/0201616408/ref=sr_1_1?dchild=1&keywords=Extreme+Programming+Applied&qid=1623328243&sr=8-1",
+         "desc": "",
+         "group": "Books",
+         "kind": "book"
+        },
+        {
+         "id": "1cnnng7",
+         "title": "Planning Extreme Programming",
+         "url": "https://www.amazon.com/Planning-Extreme-Programming-Kent-Beck/dp/0201710919/ref=sr_1_1?dchild=1&keywords=Planning+Extreme+Programming&qid=1623328281&sr=8-1",
+         "desc": "",
+         "group": "Books",
+         "kind": "book"
+        },
+        {
+         "id": "q6xmjc",
+         "title": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Extreme_programming",
+         "desc": "",
+         "group": null,
+         "kind": "wiki"
+        }
+       ]
+      },
+      {
+       "id": "practicing-models-and-methodologies-waterfall",
+       "title": "Waterfall",
+       "links": [
+        {
+         "id": "3tpotq",
+         "title": "Process Model",
+         "url": "https://www.sciencedirect.com/topics/computer-science/waterfall-model",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "s373hz",
+         "title": "Methodology",
+         "url": "https://www.workfront.com/project-management/methodologies/waterfall",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "1ip7ejv",
+         "title": "References",
+         "url": "https://www.ionos.com/digitalguide/websites/web-development/waterfall-methodology/",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "1g7taus",
+         "title": "Production of Large Computer Programs",
+         "url": "https://scholar.google.com/scholar?cluster=1388407824739651346&hl=fi&as_sdt=0,5",
+         "desc": "",
+         "group": "Papers",
+         "kind": "paper"
+        },
+        {
+         "id": "1l9je3z",
+         "title": "Managing the Development of Large Software Systems",
+         "url": "http://www-scf.usc.edu/~csci201/lectures/Lecture11/royce1970.pdf",
+         "desc": "",
+         "group": "Papers",
+         "kind": "paper"
+        },
+        {
+         "id": "8hnh0u",
+         "title": "Iterative and Incremental Development: A Brief History",
+         "url": "https://www.computer.org/csdl/magazine/co/2003/06/r6047/13rRUxBJhpL",
+         "desc": "",
+         "group": "Papers",
+         "kind": "paper"
+        },
+        {
+         "id": "atygvq",
+         "title": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Waterfall_model",
+         "desc": "",
+         "group": null,
+         "kind": "wiki"
+        }
+       ]
+      },
+      {
+       "id": "practicing-models-and-methodologies-rapid-prototyping",
+       "title": "Rapid Prototyping",
+       "links": [
+        {
+         "id": "15znnix",
+         "title": "Introduction",
+         "url": "https://www.productplan.com/glossary/rapid-prototyping/",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "520d3u",
+         "title": "Tools",
+         "url": "https://blog.logrocket.com/the-7-best-tools-for-rapid-prototyping/",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "amju89",
+         "title": "Rapid prototyping: An alternative instructional design strategy",
+         "url": "http://edtc6321learningdesign.pbworks.com/w/file/fetch/77292563/rapidprototypinganalternativeinstructionaldesign.pdf",
+         "desc": "",
+         "group": "Papers",
+         "kind": "paper"
+        },
+        {
+         "id": "d61px2",
+         "title": "Rapid Prototyping in Software Development",
+         "url": "https://scholar.google.com/scholar?cluster=8761499927215037412&hl=fi&as_sdt=0,5",
+         "desc": "",
+         "group": "Papers",
+         "kind": "paper"
+        },
+        {
+         "id": "18r1ix5",
+         "title": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Software_prototyping",
+         "desc": "",
+         "group": null,
+         "kind": "wiki"
+        }
+       ]
+      },
+      {
+       "id": "practicing-models-and-methodologies-incremental",
+       "title": "Incremental",
+       "links": [
+        {
+         "id": "1gwgxle",
+         "title": "Software Engineering: A Practitioner's Approach",
+         "url": "https://www.amazon.com/ISE-SOFTWARE-ENGINEERING-PRACTITIONERS-APPROACH/dp/1260548007",
+         "desc": "",
+         "group": "Books",
+         "kind": "book"
+        },
+        {
+         "id": "1fuen97",
+         "title": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Incremental_build_model",
+         "desc": "",
+         "group": null,
+         "kind": "wiki"
+        }
+       ]
+      },
+      {
+       "id": "practicing-models-and-methodologies-cleanroom",
+       "title": "Cleanroom",
+       "links": [
+        {
+         "id": "1rlmgq",
+         "title": "Process Model",
+         "url": "https://ieeexplore.ieee.org/abstract/document/268956",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "b0pidq",
+         "title": "Reference",
+         "url": "https://resources.sei.cmu.edu/library/asset-view.cfm?assetID=12635",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "uqyh4s",
+         "title": "Cleanroom Software Engineering",
+         "url": "https://scholar.google.com/scholar?cluster=1315746658937502269&hl=fi&as_sdt=0,5",
+         "desc": "",
+         "group": "Papers",
+         "kind": "paper"
+        },
+        {
+         "id": "17ntdf",
+         "title": "Introducing Formal Methods into Industry using Cleanroom and CSP",
+         "url": "https://www.semanticscholar.org/paper/Introducing-Formal-Methods-into-Industry-using-and-Broadfoot/be46d7ebad16e6eee1306e61379d2f0a7454e46f",
+         "desc": "",
+         "group": "Papers",
+         "kind": "paper"
+        },
+        {
+         "id": "koc57c",
+         "title": "Toward Zero-Defect Programming",
+         "url": "https://www.amazon.com/Toward-Defect-Programming-Allan-Stavely/dp/0201385953",
+         "desc": "",
+         "group": "Books",
+         "kind": "book"
+        },
+        {
+         "id": "10v0qtw",
+         "title": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Cleanroom_software_engineering",
+         "desc": "",
+         "group": null,
+         "kind": "wiki"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "practicing-people-management",
+     "title": "People Management",
+     "topics": [
+      {
+       "id": "practicing-people-management-running-one-on-ones",
+       "title": "Running one-on-ones",
+       "links": [
+        {
+         "id": "6b1xyt",
+         "title": "1-1|GitLab",
+         "url": "https://about.gitlab.com/handbook/leadership/1-1/",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "wrczde",
+         "title": "Running one-on-ones – The Manager's Handbook",
+         "url": "https://themanagershandbook.com/coaching-and-feedback/running-one-on-ones",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "h5f9l4",
+         "title": "One-on-One Meetings (The Complete Guide) | Friday.app",
+         "url": "https://friday.app/p/one-on-ones",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "t5akbr",
+         "title": "How to Make Your One-on-Ones with Employees More Productive",
+         "url": "https://hbr.org/2016/08/how-to-make-your-one-on-ones-with-employees-more-productive",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "ebqcmw",
+         "title": "How to Have Effective 1 on 1 Meetings with Your Manager",
+         "url": "https://getlighthouse.com/blog/effective-1-on-1-meetings/",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "1dc41dv",
+         "title": "The Ultimate Guide to Manager One-on-Ones",
+         "url": "https://lattice.com/library/the-ultimate-guide-to-one-on-ones",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "8jnsyq",
+         "title": "How to Have Effective 1-on-1 Meetings With Your Direct Reports",
+         "url": "https://www.radicalcandor.com/blog/effective-one-on-ones/",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "805zsi",
+         "title": "How to Run Exceptional One-on-Ones | by Dave Bailey | The Founder Coach Blog",
+         "url": "https://medium.dave-bailey.com/how-to-run-exceptional-one-on-ones-7cf9f22fce6e?gi=6e2f61047c10",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "617vgu",
+         "title": "One-on-ones are my most valuable meetings; here’s how I run them | by Mathilde Collin | The Startup | Medium",
+         "url": "https://medium.com/swlh/one-on-ones-are-my-most-valuable-meetings-heres-how-i-run-them-d9ae7c64dade",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        }
+       ]
+      },
+      {
+       "id": "practicing-people-management-building-credibility",
+       "title": "Building credibility",
+       "links": [
+        {
+         "id": "1eqvac4",
+         "title": "What Makes a Great Manager of Software Engineers?",
+         "url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2018/06/kalliamvakou-tse-2018.pdf",
+         "desc": "",
+         "group": null,
+         "kind": "paper"
+        },
+        {
+         "id": "23xk5x",
+         "title": "How to build trust on engineering teams | The Enterprisers Project",
+         "url": "https://enterprisersproject.com/article/2020/6/how-build-trust-engineering-teams",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "1w87e58",
+         "title": "How to Build Credibility at Work. Nothing arises suspicions about… | by Patricia Repolda | The Startup | Medium",
+         "url": "https://medium.com/swlh/how-to-build-credibility-at-work-d48892ec8512",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "1e3m1m1",
+         "title": "How To Become A Subject Matter Expert: 5 Ways To Establish Credibility And Executive Presence",
+         "url": "https://www.forbes.com/sites/chriswestfall/2021/08/06/how-to-become-a-subject-matter-expert-5-ways-to-establish-credibility-and-executive-presence/",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "2jxsu7",
+         "title": "A Most Critical Engineering Career Success Factor: Technical Credibility | Penn State College of Engineering",
+         "url": "https://sites.psu.edu/engineering/2015/05/15/a-most-critical-engineering-career-success-factor-technical-credibility/",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "rs9azo",
+         "title": "How to build credibility with your team - Torch",
+         "url": "https://torch.io/blog/how-to-build-credibility-with-your-team/",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "1j7apgq",
+         "title": "7 Ways to Build Credibility When You're a New Leader",
+         "url": "https://blog.hubspot.com/marketing/build-credibility-new-leader",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        }
+       ]
+      },
+      {
+       "id": "practicing-people-management-building-strategic-roadmaps",
+       "title": "Building Strategic roadmaps",
+       "links": [
+        {
+         "id": "1pcxwf8",
+         "title": "Maximize your team. How I created an Engineering Roadmap",
+         "url": "https://johngrahamdev.com/Building-An-Engineering-Roadmap/",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "xs1vk9",
+         "title": "Podcast 376: Writing the roadmap from engineer to manager - Stack Overflow Blog",
+         "url": "https://stackoverflow.blog/2021/09/17/podcast-376-writing-the-roadmap-from-engineer-to-manager/",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "1ubvh1o",
+         "title": "Engineering Team Roadmaps. | by Michael Krisher | The Startup | Medium",
+         "url": "https://medium.com/swlh/engineering-team-roadmaps-9b3d1ef764d5",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "ifd0t",
+         "title": "The Mystical Engineering Roadmap",
+         "url": "https://dispel.io/blog/the-mystical-engineering-roadmap/",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "14jhmyv",
+         "title": "Engineering Roadmap",
+         "url": "https://nimblehq.co/compass/team/engineering/roadmap/",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "mnt5r1",
+         "title": "How to Create an Engineering Roadmap | Step-by-Step Guide",
+         "url": "https://www.productplan.com/learn/engineering-roadmap/",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "qqpwnh",
+         "title": "Why long-term plans don't work and how to fix them",
+         "url": "https://lucasfcosta.com/2022/07/15/long-term-plans-dont-work.html",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        }
+       ]
+      },
+      {
+       "id": "practicing-people-management-motivating-teams",
+       "title": "Motivating teams",
+       "links": [
+        {
+         "id": "gntr26",
+         "title": "Habits of High-Functioning Teams | deniseyu.io",
+         "url": "https://deniseyu.io/2020/05/23/habits-of-high-performing-teams.html",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "79zczf",
+         "title": "10 Ways to Motivate Employees with One on One Meetings",
+         "url": "https://www.peoplebox.ai/blog/10-ways-to-use-one-on-one-meetings-to-motivate-employees/",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "fs74h0",
+         "title": "Managing motivation on software engineering teams",
+         "url": "https://www.linkedin.com/pulse/managing-motivation-software-engineering-teams-usman-ismail",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "qvdb80",
+         "title": "Building and Motivating Engineering Teams | by Camille Fournier",
+         "url": "https://medium.com/swlh/building-and-motivating-engineering-teams-24fd56910039",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "1hxucxq",
+         "title": "Creating and sustaining motivation in your engineering team - YouTube",
+         "url": "https://www.youtube.com/watch?v=M5w_hxyzwNk",
+         "desc": "",
+         "group": null,
+         "kind": "video"
+        },
+        {
+         "id": "1rvm07q",
+         "title": "Motivating Engineering Teams - API Canary",
+         "url": "https://www.apicanary.com/blog/motivating-engineering-teams/",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "d0lbpp",
+         "title": "About Team motivation or What Motivates Your Dev Team? - GoRetro",
+         "url": "https://www.goretro.ai/post/team-motivation",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        }
+       ]
+      },
+      {
+       "id": "practicing-people-management-hiring",
+       "title": "Hiring",
+       "links": [
+        {
+         "id": "glmyto",
+         "title": "How to Hire | Carta",
+         "url": "https://carta.com/blog/how-to-hire/",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "1afi3ge",
+         "title": "How to drive away your best engineers. | Hulacorn Blog",
+         "url": "https://blog.hulacorn.com/2021/09/08/how-to-drive-away-your-best-engineers/",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "1yvz8x9",
+         "title": "Hiring 101 – The Manager's Handbook",
+         "url": "https://themanagershandbook.com/hiring-and-onboarding/hiring-101",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "cix9dd",
+         "title": "Ask HN: How do small companies do recruitment? | Hacker News",
+         "url": "https://news.ycombinator.com/item?id=30098607",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        }
+       ]
+      },
+      {
+       "id": "practicing-people-management-goal-setting",
+       "title": "Goal Setting",
+       "links": [
+        {
+         "id": "1ysi7kv",
+         "title": "Clarity – The Manager's Handbook",
+         "url": "https://themanagershandbook.com/creating-and-achieving-goals/clarity",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "7ahzyy",
+         "title": "Setting KPIs and goals : YC Startup Library",
+         "url": "https://www.ycombinator.com/library/Iu-setting-kpis-and-goals",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "gwhdg",
+         "title": "Engineering Managers and productivity: 7 guiding objectives for supporting your team",
+         "url": "https://www.linkedin.com/pulse/engineering-managers-productivity-7-guiding-objectives-simone-basso",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "18mzrzf",
+         "title": "Engineering goals: How to set goals for high-performing teams | Hypercontext",
+         "url": "https://hypercontext.com/blog/work-goals/engineering-goals",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        }
+       ]
+      },
+      {
+       "id": "practicing-people-management-prioritization",
+       "title": "Prioritization",
+       "links": [
+        {
+         "id": "1b9ra8w",
+         "title": "RICE Scoring Model | Prioritization Method Overview",
+         "url": "https://www.productplan.com/glossary/rice-scoring-model/",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "15y39io",
+         "title": "What is an Action Priority Matrix? | Definition and Overview",
+         "url": "https://www.productplan.com/glossary/action-priority-matrix/",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "72xzbx",
+         "title": "What is Affinity Grouping Prioritization? | Definition and Overview",
+         "url": "https://www.productplan.com/glossary/affinity-grouping/",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "1fntqav",
+         "title": "Affinity Diagram | Definition and Overview",
+         "url": "https://www.productplan.com/glossary/affinity-diagram/",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "d9qg98",
+         "title": "Buy-a-Feature Prioritization Model | Definition and Overview",
+         "url": "https://www.productplan.com/glossary/buy-a-feature/",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "11v1sqq",
+         "title": "What is the Cost of Delay framework? | Definition and Overview",
+         "url": "https://www.productplan.com/glossary/cost-of-delay/",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "1e8gios",
+         "title": "Eisenhower Matrix | Prioritization Framework | Definition and Examples",
+         "url": "https://www.productplan.com/glossary/eisenhower-matrix/",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "41g7a2",
+         "title": "What is the Kano Model? | Definition and Overview of Kano",
+         "url": "https://www.productplan.com/glossary/kano-model/",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "17zuvuz",
+         "title": "What is MoSCoW Prioritization? | Overview of the MoSCoW Method",
+         "url": "https://www.productplan.com/glossary/moscow-prioritization/",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "p3rs9x",
+         "title": "The Product Tree Prioritization Framework | Overview",
+         "url": "https://www.productplan.com/glossary/product-tree/",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "qf0ehd",
+         "title": "Value vs. Complexity Prioritization Model | Definition and Overview",
+         "url": "https://www.productplan.com/glossary/value-vs-complexity/",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "15n30w8",
+         "title": "Weighted Scoring | Definition and Overview",
+         "url": "https://www.productplan.com/glossary/weighted-scoring/",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        }
+       ]
+      },
+      {
+       "id": "practicing-people-management-collaboration",
+       "title": "Collaboration",
+       "links": [
+        {
+         "id": "1wxr6or",
+         "title": "There is no “us” in team | Structure and Interpretation of Computer Programmers",
+         "url": "https://www.sicpers.info/2021/06/there-is-no-us-in-team/",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "x6q3ib",
+         "title": "Jade Rubick - How to build silos and decrease collaboration (on purpose)",
+         "url": "https://www.rubick.com/how-to-build-silos-and-decrease-collaboration/",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "1t4ltxh",
+         "title": "The effects of remote work on collaboration among information workers | Nature Human Behaviour",
+         "url": "https://www.nature.com/articles/s41562-021-01196-4#MOESM1",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        }
+       ]
+      },
+      {
+       "id": "practicing-people-management-conflict-resolution",
+       "title": "Conflict resolution",
+       "links": [
+        {
+         "id": "x2o8wq",
+         "title": "Conflict resolution 101 for startups",
+         "url": "https://blog.close.com/conflict-resolution-101-for-startups/",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "2m9yo0",
+         "title": "Good conflicts – The Manager's Handbook",
+         "url": "https://themanagershandbook.com/conflict-resolution/good-conflicts",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "1yl5let",
+         "title": "How to Deliver Constructive Feedback in Difficult Situations | by Dave Bailey | The Founder Coach Blog",
+         "url": "https://medium.dave-bailey.com/the-essential-guide-to-difficult-conversations-41f736e63ccf",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "heliy3",
+         "title": "How to Resolve a Conflict Where Both Sides Are Right | by Dave Bailey | The Founder Coach Blog",
+         "url": "https://medium.dave-bailey.com/how-to-resolve-a-conflict-when-both-sides-are-right-1f375bc82f7f",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "bcg6fs",
+         "title": "How to Resolve Disputes - A Guide for Managers | by Teuta Rechi | Adeva",
+         "url": "https://adevait.com/leadership/conflict-resolution-in-the-workplace",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "1qhb26i",
+         "title": "Ask HN: How do you handle conflicts with your peers? | Hacker News",
+         "url": "https://news.ycombinator.com/item?id=22074357",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "596xgo",
+         "title": "Techniques for conflict management as an Engineering Manager | Jumpstart",
+         "url": "https://medium.com/jump-start/diversity-inclusion-and-managing-conflict-as-an-engineering-manager-techniques-1c49c33f931b",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        }
+       ]
+      },
+      {
+       "id": "practicing-people-management-performance-management",
+       "title": "Performance Management",
+       "links": [
+        {
+         "id": "1ob5ygp",
+         "title": "Engineering Performance Review | Railsware BlogGroup 3",
+         "url": "https://railsware.com/blog/engineering-performance-review/",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "rzxp67",
+         "title": "Performance Reviews for Software Developers – How I Do Them In a (Hopefully) Fair Way - The Pragmatic Engineer",
+         "url": "https://blog.pragmaticengineer.com/performance-reviews-for-software-engineers/",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "r2e0y6",
+         "title": "Performance reviews - The Engineering Manager",
+         "url": "https://www.theengineeringmanager.com/management-101/performance-reviews/",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "1n26gsb",
+         "title": "Unfortunate things about performance reviews",
+         "url": "https://rachelbythebay.com/w/2021/02/19/perf/",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "aexk63",
+         "title": "Annual Reviews Are a Terrible Way to Evaluate Employees - WSJ",
+         "url": "https://www.wsj.com/articles/annual-reviews-are-a-terrible-way-to-evaluate-employees-11651291254",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "azfdd8",
+         "title": "Performance reviews don’t actually assess your performance.",
+         "url": "https://workweek.com/2022/09/26/performance-reviews-dont-actually-assess-your-performance/",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "1drqn9l",
+         "title": "Ask HN: How does your company do performance reviews? | Hacker News",
+         "url": "https://news.ycombinator.com/item?id=14908913",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "126pztm",
+         "title": "Ask HN: What does performance management look like at your company? | Hacker News",
+         "url": "https://news.ycombinator.com/item?id=24374347",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        }
+       ]
+      },
+      {
+       "id": "practicing-people-management-feedback",
+       "title": "Feedback",
+       "links": [
+        {
+         "id": "zb13g2",
+         "title": "Feedack – The Manager's Handbook",
+         "url": "https://themanagershandbook.com/coaching-and-feedback/feedback#giving-feedback",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "70v0zu",
+         "title": "Leadership | GitLab",
+         "url": "https://about.gitlab.com/handbook/leadership/#giving-feedback",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "lawgu4",
+         "title": "How to Ask for Feedback",
+         "url": "https://www.samjulien.com/how-to-ask-for-feedback/",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "1wv62t8",
+         "title": "The Engineering Manager's guide to open, honest and constructive feedback | LeadDev",
+         "url": "https://leaddev.com/mentoring-coaching-feedback/engineering-managers-guide-open-honest-and-constructive-feedback",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "shi3im",
+         "title": "Performance Review Example and Template for Engineering Managers - The Pragmatic Engineer",
+         "url": "https://blog.pragmaticengineer.com/performance-review-example-and-template-for-engineering-managers/",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "practicing-processes-and-artifacts",
+     "title": "Processes and Artifacts",
+     "topics": [
+      {
+       "id": "practicing-processes-and-artifacts-project-charter",
+       "title": "Project Charter",
+       "links": [
+        {
+         "id": "r3cc1h",
+         "title": "PMI",
+         "url": "https://www.pmi.org/learning/library/charter-selling-project-7473",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "alp2av",
+         "title": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Project_charter",
+         "desc": "",
+         "group": null,
+         "kind": "wiki"
+        },
+        {
+         "id": "uqsa8n",
+         "title": "Templates",
+         "url": "https://clickup.com/blog/project-charter-template/",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        }
+       ]
+      },
+      {
+       "id": "practicing-processes-and-artifacts-project-management-plan",
+       "title": "Project Management Plan",
+       "links": [
+        {
+         "id": "3ns8gb",
+         "title": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Project_plan",
+         "desc": "",
+         "group": null,
+         "kind": "wiki"
+        },
+        {
+         "id": "1td0stx",
+         "title": "CDC",
+         "url": "https://www2.cdc.gov/cdcup/library/templates/cdc_up_project_management_plan_template.doc",
+         "desc": "",
+         "group": "Templates",
+         "kind": "article"
+        },
+        {
+         "id": "xm0rx3",
+         "title": "Atlassian",
+         "url": "https://www.atlassian.com/software/confluence/templates/project-plan",
+         "desc": "",
+         "group": "Templates",
+         "kind": "article"
+        },
+        {
+         "id": "bduo0x",
+         "title": "PMI",
+         "url": "https://www.projectmanagement.com/contentPages/projectPlan.cfm?ID=121789&thisPageURL=/project-plans/121789/Software-Development-Project-Plan#_=_",
+         "desc": "",
+         "group": "Templates",
+         "kind": "article"
+        }
+       ]
+      },
+      {
+       "id": "practicing-processes-and-artifacts-work-breakdown-structure",
+       "title": "Work breakdown structure",
+       "links": [
+        {
+         "id": "n8eebk",
+         "title": "PMI",
+         "url": "https://www.pmi.org/learning/library/applying-work-breakdown-structure-project-lifecycle-6979",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "1tnhi4t",
+         "title": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Work_breakdown_structure",
+         "desc": "",
+         "group": null,
+         "kind": "wiki"
+        },
+        {
+         "id": "628q5x",
+         "title": "CDC",
+         "url": "https://www2a.cdc.gov/cdcup/library/templates/CDC_UP_WBS_Template_Style-1.doc",
+         "desc": "",
+         "group": "Templates",
+         "kind": "article"
+        },
+        {
+         "id": "1hbcljc",
+         "title": "Atlassian",
+         "url": "https://aneto.atlassian.net/wiki/spaces/WBS/overview",
+         "desc": "",
+         "group": "Templates",
+         "kind": "article"
+        },
+        {
+         "id": "ks7ezb",
+         "title": "Miro",
+         "url": "https://miro.com/templates/work-breakdown-structure/",
+         "desc": "",
+         "group": "Templates",
+         "kind": "article"
+        },
+        {
+         "id": "3x0k06",
+         "title": "Google sheets",
+         "url": "https://workspace.google.com/marketplace/app/projectsheet_planning/1080532206233",
+         "desc": "",
+         "group": "Templates",
+         "kind": "article"
+        }
+       ]
+      },
+      {
+       "id": "practicing-processes-and-artifacts-capacity-planning",
+       "title": "Capacity Planning",
+       "links": [
+        {
+         "id": "19fbp3i",
+         "title": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Capacity_planning",
+         "desc": "",
+         "group": null,
+         "kind": "wiki"
+        },
+        {
+         "id": "3g781z",
+         "title": "Platform team business case: capacity and payback sheets",
+         "url": "https://www.marian.coach/blog/platform-team-business-case/",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "1ltxgte",
+         "title": "CDC",
+         "url": "https://www2.cdc.gov/cdcup/library/templates/cdc_up_capacity_planning_template.doc",
+         "desc": "",
+         "group": "Templates",
+         "kind": "article"
+        },
+        {
+         "id": "1t6gvb2",
+         "title": "Atlassian",
+         "url": "https://www.atlassian.com/software/confluence/templates/capacity-planning",
+         "desc": "",
+         "group": "Templates",
+         "kind": "article"
+        },
+        {
+         "id": "1h939ua",
+         "title": "PMI",
+         "url": "https://www.projectmanagement.com/deliverables/319867/Capacity-Planning-Template",
+         "desc": "",
+         "group": "Templates",
+         "kind": "article"
+        }
+       ]
+      },
+      {
+       "id": "practicing-processes-and-artifacts-risk-management",
+       "title": "Risk Management",
+       "links": [
+        {
+         "id": "14lyz1",
+         "title": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Risk_management",
+         "desc": "",
+         "group": null,
+         "kind": "wiki"
+        },
+        {
+         "id": "1hlto6",
+         "title": "CDC",
+         "url": "https://www2a.cdc.gov/cdcup/library/templates/CDC_UP_Risk_Management_Plan_Template.doc",
+         "desc": "",
+         "group": "Templates",
+         "kind": "article"
+        },
+        {
+         "id": "1hhxojo",
+         "title": "Atlassian",
+         "url": "https://www.atlassian.com/software/confluence/templates/risk-assessment",
+         "desc": "",
+         "group": "Templates",
+         "kind": "article"
+        }
+       ]
+      },
+      {
+       "id": "practicing-processes-and-artifacts-stakeholder-management",
+       "title": "Stakeholder Management",
+       "links": [
+        {
+         "id": "178zuht",
+         "title": "PMI",
+         "url": "https://www.pmi.org/learning/library/stakeholder-management-task-project-success-7736",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "5f8jg4",
+         "title": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Stakeholder_management",
+         "desc": "",
+         "group": null,
+         "kind": "wiki"
+        }
+       ]
+      },
+      {
+       "id": "practicing-processes-and-artifacts-decision-making",
+       "title": "Decision Making",
+       "links": [
+        {
+         "id": "1d2s9ki",
+         "title": "Atlassian",
+         "url": "https://www.atlassian.com/software/confluence/templates/decision",
+         "desc": "",
+         "group": "Templates",
+         "kind": "article"
+        },
+        {
+         "id": "1vpcwq0",
+         "title": "Miro",
+         "url": "https://miro.com/templates/decision-making/",
+         "desc": "",
+         "group": "Templates",
+         "kind": "article"
+        }
+       ]
+      },
+      {
+       "id": "practicing-processes-and-artifacts-kpi-key-performance-indicators",
+       "title": "KPI: Key Performance Indicators",
+       "links": [
+        {
+         "id": "1d203h2",
+         "title": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Performance_indicator",
+         "desc": "",
+         "group": null,
+         "kind": "wiki"
+        },
+        {
+         "id": "1ujj0ef",
+         "title": "PMI",
+         "url": "https://www.pmi.org/learning/library/project-metrics-key-performance-indicators-2903",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "1e8yiqm",
+         "title": "Clickup",
+         "url": "https://clickup.com/blog/agile/agile-metrics/",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        }
+       ]
+      },
+      {
+       "id": "practicing-processes-and-artifacts-retrospectives",
+       "title": "Retrospectives",
+       "links": [
+        {
+         "id": "12asgq5",
+         "title": "Atlassian",
+         "url": "https://www.atlassian.com/software/confluence/templates/retrospective",
+         "desc": "",
+         "group": "Templates",
+         "kind": "article"
+        },
+        {
+         "id": "ti8449",
+         "title": "Miro",
+         "url": "https://miro.com/blog/7-retrospective-templates-love-use-miro/",
+         "desc": "",
+         "group": "Templates",
+         "kind": "article"
+        }
+       ]
+      },
+      {
+       "id": "practicing-processes-and-artifacts-smart-goals",
+       "title": "SMART Goals",
+       "links": [
+        {
+         "id": "srllr5",
+         "title": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/SMART_criteria",
+         "desc": "",
+         "group": null,
+         "kind": "wiki"
+        },
+        {
+         "id": "15cjlc4",
+         "title": "Atlassian",
+         "url": "https://www.atlassian.com/blog/productivity/how-to-write-smart-goals",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "e7wehu",
+         "title": "Atlassian",
+         "url": "https://www.atlassian.com/software/confluence/templates/goals-signals-measures",
+         "desc": "",
+         "group": "Templates",
+         "kind": "article"
+        },
+        {
+         "id": "1ohb6tw",
+         "title": "Miro",
+         "url": "https://miro.com/templates/smart-goals/",
+         "desc": "",
+         "group": "Templates",
+         "kind": "article"
+        }
+       ]
+      },
+      {
+       "id": "practicing-processes-and-artifacts-critical-path-method",
+       "title": "Critical Path Method",
+       "links": [
+        {
+         "id": "1lzj519",
+         "title": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Critical_path_method",
+         "desc": "",
+         "group": null,
+         "kind": "wiki"
+        },
+        {
+         "id": "1wesolh",
+         "title": "PMI",
+         "url": "https://www.pmi.org/learning/library/critical-path-scheduling-work-breakdown-6212",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "2liey",
+         "title": "Smartsheet",
+         "url": "https://www.smartsheet.com/content/critical-path-templates",
+         "desc": "",
+         "group": "Templates",
+         "kind": "article"
+        },
+        {
+         "id": "qhu36t",
+         "title": "Others",
+         "url": "https://templatelab.com/critical-path/",
+         "desc": "",
+         "group": "Templates",
+         "kind": "article"
+        }
+       ]
+      },
+      {
+       "id": "practicing-processes-and-artifacts-launch-plan",
+       "title": "Launch Plan",
+       "links": [
+        {
+         "id": "o93zhp",
+         "title": "Atlassian",
+         "url": "https://www.atlassian.com/software/confluence/templates/product-launch",
+         "desc": "",
+         "group": "Templates",
+         "kind": "article"
+        },
+        {
+         "id": "1nsh7qj",
+         "title": "Asana",
+         "url": "https://asana.com/templates/for/marketing/product-marketing-launch",
+         "desc": "",
+         "group": "Templates",
+         "kind": "article"
+        }
+       ]
+      },
+      {
+       "id": "practicing-processes-and-artifacts-adr-architecture-decision-record",
+       "title": "ADR: Architecture Decision Record",
+       "links": [
+        {
+         "id": "95o0q7",
+         "title": "Process",
+         "url": "https://github.com/joelparkerhenderson/architecture-decision-record",
+         "desc": "",
+         "group": null,
+         "kind": "repo"
+        },
+        {
+         "id": "luvfb6",
+         "title": "Machine-readable format",
+         "url": "https://github.com/reasoning-formats/reasoning-formats",
+         "desc": "",
+         "group": null,
+         "kind": "repo"
+        },
+        {
+         "id": "1d2s9ki",
+         "title": "Atlassian",
+         "url": "https://www.atlassian.com/software/confluence/templates/decision",
+         "desc": "",
+         "group": "Templates",
+         "kind": "article"
+        }
+       ]
+      },
+      {
+       "id": "practicing-processes-and-artifacts-software-architecture-review",
+       "title": "Software Architecture Review",
+       "links": [
+        {
+         "id": "mskrlx",
+         "title": "Process",
+         "url": "https://mozilla.github.io/firefox-browser-architecture/text/0006-architecture-review-process.html",
+         "desc": "",
+         "group": "Process",
+         "kind": "article"
+        },
+        {
+         "id": "1mtm6ke",
+         "title": "Atlassian",
+         "url": "https://www.atlassian.com/software/confluence/templates/software-architecture-review",
+         "desc": "",
+         "group": "Templates",
+         "kind": "article"
+        }
+       ]
+      },
+      {
+       "id": "practicing-processes-and-artifacts-raci-matrix",
+       "title": "RACI Matrix",
+       "links": [
+        {
+         "id": "8js1pk",
+         "title": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Responsibility_assignment_matrix",
+         "desc": "",
+         "group": null,
+         "kind": "wiki"
+        },
+        {
+         "id": "1f5e07j",
+         "title": "Miro",
+         "url": "https://miro.com/templates/raci-matrix/",
+         "desc": "",
+         "group": "Templates",
+         "kind": "article"
+        },
+        {
+         "id": "1d2s9ki",
+         "title": "Confluence",
+         "url": "https://www.atlassian.com/software/confluence/templates/decision",
+         "desc": "",
+         "group": "Templates",
+         "kind": "article"
+        }
+       ]
+      },
+      {
+       "id": "practicing-processes-and-artifacts-decision-tree",
+       "title": "Decision tree",
+       "links": [
+        {
+         "id": "1sw38c1",
+         "title": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Decision_tree",
+         "desc": "",
+         "group": null,
+         "kind": "wiki"
+        },
+        {
+         "id": "1ppr3br",
+         "title": "Miro",
+         "url": "https://miro.com/templates/decision-tree/",
+         "desc": "",
+         "group": "Templates",
+         "kind": "article"
+        },
+        {
+         "id": "1xhha7x",
+         "title": "Canva",
+         "url": "https://www.canva.com/graphs/decision-trees/",
+         "desc": "",
+         "group": "Templates",
+         "kind": "article"
+        }
+       ]
+      },
+      {
+       "id": "practicing-processes-and-artifacts-gantt-charts",
+       "title": "Gantt Charts",
+       "links": [
+        {
+         "id": "8dsk5h",
+         "title": "Google sheets",
+         "url": "https://docs.google.com/spreadsheets/d/1B3BrdD2ypRT0jk1wHyWU9xciVCyExGBruWw-txazE9s/edit#gid=2140549662",
+         "desc": "",
+         "group": "Templates",
+         "kind": "article"
+        }
+       ]
+      },
+      {
+       "id": "practicing-processes-and-artifacts-cause-effect-analysis-fishbone-diagrams",
+       "title": "Cause-effect analysis: Fishbone diagrams",
+       "links": [
+        {
+         "id": "7io7sr",
+         "title": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Ishikawa_diagram",
+         "desc": "",
+         "group": null,
+         "kind": "wiki"
+        },
+        {
+         "id": "1sixhfp",
+         "title": "Tutorial",
+         "url": "https://www.mindtools.com/pages/article/newTMC_03.htm",
+         "desc": "",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "b5z14m",
+         "title": "Miro",
+         "url": "https://miro.com/templates/fishbone-diagram/",
+         "desc": "",
+         "group": "Templates",
+         "kind": "article"
+        },
+        {
+         "id": "wag380",
+         "title": "Canva",
+         "url": "https://www.canva.com/graphs/fishbone-diagrams/",
+         "desc": "",
+         "group": "Templates",
+         "kind": "article"
+        }
+       ]
+      },
+      {
+       "id": "practicing-processes-and-artifacts-scrum-poker-planning",
+       "title": "SCRUM Poker planning",
+       "links": [
+        {
+         "id": "1uq1zq5",
+         "title": "Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Planning_poker",
+         "desc": "",
+         "group": null,
+         "kind": "wiki"
+        },
+        {
+         "id": "9wxzlv",
+         "title": "scrumpoker.online",
+         "url": "https://scrumpoker.online/",
+         "desc": "",
+         "group": "Tools",
+         "kind": "article"
+        },
+        {
+         "id": "1mucgbf",
+         "title": "Slack bot",
+         "url": "https://github.com/nateyolles/slack-pokerbot",
+         "desc": "",
+         "group": "Tools",
+         "kind": "repo"
+        },
+        {
+         "id": "1hqq41m",
+         "title": "Storyplan for slack",
+         "url": "https://www.storyplan.io/",
+         "desc": "",
+         "group": "Tools",
+         "kind": "article"
+        },
+        {
+         "id": "r8vbrd",
+         "title": "Android app",
+         "url": "https://play.google.com/store/apps/details?id=com.vvkra.planningpoker&hl=en_US&gl=US",
+         "desc": "",
+         "group": "Tools",
+         "kind": "article"
+        },
+        {
+         "id": "1d1fgq9",
+         "title": "Paceflow Scrum Poker",
+         "url": "https://www.paceflow.io/scrum-poker",
+         "desc": "Free online planning poker for estimating sprint work with live team voting.",
+         "group": "Tools",
+         "kind": "article"
+        },
+        {
+         "id": "1mwuso3",
+         "title": "Flowboards for Azure DevOps",
+         "url": "https://flowboards.dev/",
+         "desc": "",
+         "group": "Tools",
+         "kind": "article"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "practicing-how-organizations-do-stuff",
+     "title": "How organizations do stuff",
+     "topics": [
+      {
+       "id": "practicing-how-organizations-do-stuff-how-organizations-do-stuff",
+       "title": "How organizations do stuff",
+       "links": [
+        {
+         "id": "14dxkcs",
+         "title": "SRE",
+         "url": "https://github.com/upgundecha/howtheysre",
+         "desc": "",
+         "group": null,
+         "kind": "repo"
+        },
+        {
+         "id": "1be9g5i",
+         "title": "Test",
+         "url": "https://github.com/abhivaikar/howtheytest",
+         "desc": "",
+         "group": null,
+         "kind": "repo"
+        },
+        {
+         "id": "2ipejz",
+         "title": "Devops",
+         "url": "https://github.com/bregman-arie/howtheydevops",
+         "desc": "",
+         "group": null,
+         "kind": "repo"
+        },
+        {
+         "id": "3ztve5",
+         "title": "AWS",
+         "url": "https://github.com/upgundecha/howtheyaws",
+         "desc": "",
+         "group": null,
+         "kind": "repo"
+        },
+        {
+         "id": "x885vh",
+         "title": "DBT",
+         "url": "https://github.com/stumelius/howtheydbt",
+         "desc": "",
+         "group": null,
+         "kind": "repo"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "practicing-tools",
+     "title": "Tools",
+     "topics": [
+      {
+       "id": "practicing-tools-project-and-task-management",
+       "title": "Project and task Management",
+       "links": [
+        {
+         "id": "1tbql9k",
+         "title": "Orbit by Noveum",
+         "url": "https://orbit.noveum.ai",
+         "desc": "Free, open-source issue and project management with sprints, collaborative docs and workspace-scoped OAuth MCP access.",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "pj5jzs",
+         "title": "OpenProject",
+         "url": "https://github.com/opf/openproject",
+         "desc": "OpenProject is the leading open source project management software.",
+         "group": null,
+         "kind": "repo"
+        },
+        {
+         "id": "1h8n53",
+         "title": "taiga.io",
+         "url": "https://github.com/taigaio",
+         "desc": "Your Agile, Free and Open Source Project Management Tool",
+         "group": null,
+         "kind": "repo"
+        },
+        {
+         "id": "5jtsls",
+         "title": "Redmine",
+         "url": "https://www.redmine.org/",
+         "desc": "Redmine is a flexible project management web application.",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "lrg6zi",
+         "title": "Phabricator",
+         "url": "https://phacility.com",
+         "desc": "Phabricator is a set of tools for developing software. It includes applications for code review, repository hosting, bug tracking, project management, and more.",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "mhtekd",
+         "title": "Jira",
+         "url": "https://www.atlassian.com/software/jira",
+         "desc": "The #1 software development tool used by agile teams",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "142lj3",
+         "title": "Asana",
+         "url": "https://asana.com",
+         "desc": "Work on big ideas, without the busywork.",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "ekbthb",
+         "title": "Trello",
+         "url": "https://trello.com",
+         "desc": "Trello helps teams move work forward.",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "xd92dp",
+         "title": "Basecamp",
+         "url": "https://basecamp.com",
+         "desc": "The All-In-One Toolkit for Working Remotely.",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "h4xe7x",
+         "title": "Monday",
+         "url": "https://monday.com",
+         "desc": "Easily build, run, and scale your dream workflows on one platform.",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "i151m4",
+         "title": "Clickup",
+         "url": "https://clickup.com",
+         "desc": "All your work in one place: Tasks, docs, chat, goals, & more.",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "ezekga",
+         "title": "Youtrack",
+         "url": "https://www.jetbrains.com/youtrack/",
+         "desc": "The project management tool designed for agile teams",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "1chlr4a",
+         "title": "Github",
+         "url": "https://github.com",
+         "desc": "GitHub is where over 65 million developers shape the future of software, together​.",
+         "group": null,
+         "kind": "repo"
+        },
+        {
+         "id": "123ouga",
+         "title": "Gitlab",
+         "url": "https://gitlab.com",
+         "desc": "GitLab is the open DevOps platform",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "6znvz2",
+         "title": "Google sheets",
+         "url": "https://sheets.new",
+         "desc": "Google Sheets makes your data pop with colorful charts and graphs.",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "hl78ul",
+         "title": "Clubhouse",
+         "url": "https://clubhouse.io/",
+         "desc": "Project management has never been easier",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "46qtb5",
+         "title": "Microsoft Project",
+         "url": "https://www.microsoft.com/en-us/microsoft-365/project/project-management-software",
+         "desc": "Meet the simple, powerful, reimagined Project for everyone.",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "vbqwe7",
+         "title": "Project Manager",
+         "url": "https://www.projectmanager.com/",
+         "desc": "Project Management Software for Professionals",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "1rspusu",
+         "title": "Taskade",
+         "url": "https://taskade.com",
+         "desc": "AI-native workspace for teams — tasks, docs, mind maps, AI agents, and real-time collaboration.",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "1dm0qpk",
+         "title": "Mainline",
+         "url": "https://mainline.dev",
+         "desc": "Story mapping with built-in delivery flow tracking and feature flag inventory.",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "1h0lhez",
+         "title": "Tale",
+         "url": "https://tale.dev",
+         "desc": "Open-source project workspace for teams and AI agents to share project tasks, context, files, and reviewed deliverables.",
+         "group": null,
+         "kind": "article"
+        }
+       ]
+      },
+      {
+       "id": "practicing-tools-boards",
+       "title": "Boards",
+       "links": [
+        {
+         "id": "18g7rr9",
+         "title": "focalboard",
+         "url": "https://github.com/mattermost/focalboard",
+         "desc": "Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.",
+         "group": null,
+         "kind": "repo"
+        },
+        {
+         "id": "876645",
+         "title": "react-kanban",
+         "url": "https://github.com/markusenglund/react-kanban",
+         "desc": "A server-rendered React app inspired by Trello.",
+         "group": null,
+         "kind": "repo"
+        },
+        {
+         "id": "1rm8b7y",
+         "title": "wekan",
+         "url": "https://github.com/wekan/wekan",
+         "desc": "Open Source kanban",
+         "group": null,
+         "kind": "repo"
+        },
+        {
+         "id": "1bv5s20",
+         "title": "kanboard",
+         "url": "https://github.com/kanboard/kanboard",
+         "desc": "Kanban project management software",
+         "group": null,
+         "kind": "repo"
+        },
+        {
+         "id": "19fs6py",
+         "title": "huboard",
+         "url": "https://github.com/huboard/huboard",
+         "desc": "Instant task management for your GitHub repositories",
+         "group": null,
+         "kind": "repo"
+        },
+        {
+         "id": "f6kt21",
+         "title": "nullboard",
+         "url": "https://github.com/apankrat/nullboard",
+         "desc": "Nullboard is a minimalist kanban board, focused on compactness and readability.",
+         "group": null,
+         "kind": "repo"
+        }
+       ]
+      },
+      {
+       "id": "practicing-tools-standups",
+       "title": "Standups",
+       "links": [
+        {
+         "id": "hvzhn",
+         "title": "git-standup",
+         "url": "https://github.com/kamranahmedse/git-standup",
+         "desc": "Recall what you did on the last working day.",
+         "group": null,
+         "kind": "repo"
+        },
+        {
+         "id": "8nrdid",
+         "title": "standuptimer.app",
+         "url": "https://standuptimer.app",
+         "desc": "Use this free timer for your team standups to keep them on track",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "rxr4cm",
+         "title": "scrumbot",
+         "url": "https://github.com/redsift/scrumbot",
+         "desc": "Slack bot for standup meetings",
+         "group": null,
+         "kind": "repo"
+        },
+        {
+         "id": "gimd9a",
+         "title": "slack-standup-bot",
+         "url": "https://github.com/colestrode/slack-standup-bot",
+         "desc": "Daily, weekly, whenever standup bot for Slack",
+         "group": null,
+         "kind": "repo"
+        },
+        {
+         "id": "hhvfh6",
+         "title": "standup-raven",
+         "url": "https://github.com/standup-raven/standup-raven",
+         "desc": "A Mattermost plugin for communicating daily standups across teams",
+         "group": null,
+         "kind": "repo"
+        },
+        {
+         "id": "1tfrn21",
+         "title": "Eodly",
+         "url": "https://eodly.io",
+         "desc": "Async daily check-ins in Slack, Telegram or Discord, compared with GitHub and Linear activity.",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "1a0xekt",
+         "title": "Opitor daily standup template",
+         "url": "https://opitor.com/tools/daily-standup-template",
+         "desc": "Free written standup template: what you finished, what you will finish today, and who can unblock you. No account needed.",
+         "group": null,
+         "kind": "article"
+        }
+       ]
+      },
+      {
+       "id": "practicing-tools-documentation-knowledge-management",
+       "title": "Documentation / Knowledge Management",
+       "links": [
+        {
+         "id": "1lh4irj",
+         "title": "Confluence",
+         "url": "https://www.atlassian.com/software/confluence",
+         "desc": "Confluence is your remote-friendly team workspace where knowledge and collaboration meet.",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "1qz8vwd",
+         "title": "Notion",
+         "url": "https://notion.so",
+         "desc": "One tool for your whole team. Write, plan, and get organized.",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "1ez2wpl",
+         "title": "Bookstack",
+         "url": "https://github.com/BookStackApp/BookStack",
+         "desc": "A platform to create documentation/wiki content built with PHP & Laravel",
+         "group": null,
+         "kind": "repo"
+        },
+        {
+         "id": "15f1ufe",
+         "title": "Mediawiki",
+         "url": "https://github.com/wikimedia/mediawiki",
+         "desc": "The collaborative editing software that runs Wikipedia.",
+         "group": null,
+         "kind": "repo"
+        },
+        {
+         "id": "1ado3pv",
+         "title": "Dropbox paper",
+         "url": "https://www.dropbox.com/paper",
+         "desc": "Real-time editing for teams.",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "td5pcx",
+         "title": "Google docs",
+         "url": "https://docs.new",
+         "desc": "Google docs",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "1e4ex1m",
+         "title": "Instiki",
+         "url": "https://github.com/parasew/instiki",
+         "desc": "Basic wiki clone so pretty and easy to set up, you’ll wonder if it’s really a wiki.",
+         "group": null,
+         "kind": "repo"
+        },
+        {
+         "id": "waddgq",
+         "title": "Nuclino",
+         "url": "https://www.nuclino.com",
+         "desc": "A lightweight and collaborative wiki for all your team's knowledge, docs, and notes.",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "9l9iws",
+         "title": "Slite",
+         "url": "https://slite.com",
+         "desc": "The perfect communication tool for remote teams",
+         "group": null,
+         "kind": "article"
+        }
+       ]
+      },
+      {
+       "id": "practicing-tools-communication",
+       "title": "Communication",
+       "links": [
+        {
+         "id": "1d6twum",
+         "title": "Slack",
+         "url": "https://slack.com/",
+         "desc": "Slack makes it downright pleasant to work together",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "1marnlk",
+         "title": "Mattermost",
+         "url": "https://mattermost.com/",
+         "desc": "The Only Open Source Collaboration Platform for Developers",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "2bj7ea",
+         "title": "Discord",
+         "url": "https://discord.com/",
+         "desc": "A place that makes it easy to talk every day and hang out more often.",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "1kmaw5v",
+         "title": "Rocket.chat",
+         "url": "https://rocket.chat/",
+         "desc": "Keep the workflow going by centralizing all your tools and touchpoints in one platform. Made for team collaboration, DevOps and customer engagement.",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "ay0fe6",
+         "title": "jitsi",
+         "url": "https://jitsi.org/",
+         "desc": "More secure, more flexible, and completely free video conferencing",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "1t5zjk2",
+         "title": "Google Meet",
+         "url": "https://meet.google.com/",
+         "desc": "Real-time meetings by Google.",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "1vgfezy",
+         "title": "Microsoft Teams",
+         "url": "https://teams.microsoft.com/",
+         "desc": "Microsoft Teams is the hub for team collaboration in Microsoft 365 that integrates the people, content, and tools your team needs.",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "lowq90",
+         "title": "Gitter",
+         "url": "https://gitter.im/",
+         "desc": "Gitter is a chat and networking platform that helps to manage, grow and connect communities through messaging, content and discovery.",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "ymtj9a",
+         "title": "Flock",
+         "url": "https://www.flock.com/",
+         "desc": "Your new home for collaboration.",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "1yympuo",
+         "title": "flat.social",
+         "url": "https://www.flat.social/",
+         "desc": "Spatial online meetings for remote teams that promote collaboration, creativity and spontaneous interactions.",
+         "group": null,
+         "kind": "article"
+        }
+       ]
+      },
+      {
+       "id": "practicing-tools-email-clients",
+       "title": "Email Clients",
+       "links": [
+        {
+         "id": "1iep4f2",
+         "title": "Nylas",
+         "url": "https://github.com/nylas/nylas-mail",
+         "desc": "An extensible desktop mail app built on the modern web.",
+         "group": null,
+         "kind": "repo"
+        },
+        {
+         "id": "kzq3zb",
+         "title": "Mailspring",
+         "url": "https://github.com/Foundry376/Mailspring",
+         "desc": "A beautiful, fast and fully open source mail client for Mac, Windows and Linux.",
+         "group": null,
+         "kind": "repo"
+        },
+        {
+         "id": "1yzy9s4",
+         "title": "Thunderbird",
+         "url": "https://www.thunderbird.net/",
+         "desc": "Make Email Easier.",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "1p27pwv",
+         "title": "Shift",
+         "url": "https://tryshift.com/",
+         "desc": "Shift is a desktop app for streamlining all of your email and app accounts.",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "c0sy0c",
+         "title": "Rambox",
+         "url": "https://github.com/ramboxapp/community-edition",
+         "desc": "Free and Open Source messaging and emailing app that combines common web applications into one.",
+         "group": null,
+         "kind": "repo"
+        },
+        {
+         "id": "j2zhro",
+         "title": "K9",
+         "url": "https://github.com/k9mail/k-9",
+         "desc": "K-9 Mail – Open Source Email App for Android",
+         "group": null,
+         "kind": "repo"
+        },
+        {
+         "id": "14fnhq1",
+         "title": "Evolution",
+         "url": "https://help.gnome.org/users/evolution/stable/",
+         "desc": "Evolution is a fully-featured open source groupware application",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "66x853",
+         "title": "Microsoft Office Outlook",
+         "url": "https://office.microsoft.com/outlook",
+         "desc": "Outlook is a personal information manager that lets you manage your e-mail, calendar, contacts, and tasks.",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "1irm3h0",
+         "title": "Freeter",
+         "url": "https://freeter.io/",
+         "desc": "Free and Open Source app to gather all messaging, emailing and other web app accounts in one organized place.",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "1u4pc19",
+         "title": "EpicMail",
+         "url": "https://epicmail.org/",
+         "desc": "A unified inbox for Gmail, Outlook, Yahoo, iCloud, IMAP, and POP3, with browser and Android clients.",
+         "group": null,
+         "kind": "article"
+        }
+       ]
+      },
+      {
+       "id": "practicing-tools-diagramming-and-designing",
+       "title": "Diagramming & Designing",
+       "links": [
+        {
+         "id": "1wwd5ai",
+         "title": "Draw.io",
+         "url": "https://draw.io",
+         "desc": "Flowchart Maker and Online Diagram Software",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "1av4xi2",
+         "title": "Lucidchart",
+         "url": "https://www.lucidchart.com/",
+         "desc": "Lucidchart is the intelligent diagramming application that brings teams together to make better decisions and build the future.",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "10u1yr8",
+         "title": "Miro",
+         "url": "https://miro.com",
+         "desc": "The online collaborative whiteboard platform to bring teams together, anytime, anywhere.",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "vhwxv7",
+         "title": "Sketch",
+         "url": "https://www.sketch.com/",
+         "desc": "A home for the entire collaborative design process.‎",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "ddh3f3",
+         "title": "Invision",
+         "url": "https://www.invisionapp.com/",
+         "desc": "The digital product design platform powering the world’s best user experiences",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "1pqm8zl",
+         "title": "Figma",
+         "url": "https://www.figma.com/",
+         "desc": "Figma brings your teams together to design better products from start to finish.",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "1vlfewb",
+         "title": "Zeplin",
+         "url": "https://zeplin.io/",
+         "desc": "Deliver on the promise of design",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "14tjr78",
+         "title": "Excalidraw",
+         "url": "https://plus.excalidraw.com/",
+         "desc": "Online Whiteboard made simple. Free & Open source. No account is needed",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "83yq53",
+         "title": "flow-chart.io",
+         "url": "https://flow-chart.io",
+         "desc": "AI diagram generator that produces fully editable C4 architecture, BPMN, cloud architecture, and DevOps pipeline diagrams from plain-language prompts.",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "37crrp",
+         "title": "Squado",
+         "url": "https://squado.io",
+         "desc": "Live org canvas for engineering teams: squads, tribes and alliances with the people on them, plus cost per squad, OKRs and ceremony conflicts.",
+         "group": null,
+         "kind": "article"
+        }
+       ]
+      },
+      {
+       "id": "practicing-tools-metrics",
+       "title": "Metrics",
+       "links": [
+        {
+         "id": "12rn807",
+         "title": "jira-agile-metrics",
+         "url": "https://github.com/DeloitteDigitalUK/jira-agile-metrics",
+         "desc": "A tool to extract Agile metrics and charts from JIRA projects and Trello Boards",
+         "group": null,
+         "kind": "repo"
+        },
+        {
+         "id": "1041ygp",
+         "title": "agile-metrics-tools",
+         "url": "https://github.com/patitalabs/agile-metrics-tools",
+         "desc": "Agile metrics tools allows you to track metrics from different sources",
+         "group": null,
+         "kind": "repo"
+        },
+        {
+         "id": "1pqwehv",
+         "title": "agile-metrics",
+         "url": "https://github.com/DaGrisa/agile-metrics",
+         "desc": "collecting agile metrics from jira, bitbucket, sonarqube and send them to elastic stack to visualize in kibana",
+         "group": null,
+         "kind": "repo"
+        },
+        {
+         "id": "7wqfsc",
+         "title": "jira-metrics-extract",
+         "url": "https://github.com/rnwolf/jira-metrics-extract",
+         "desc": "CLI tool to extract metrics from Jira, save data and charts locally for further analysis & presentation",
+         "group": null,
+         "kind": "repo"
+        },
+        {
+         "id": "qsh0uo",
+         "title": "pandasagilemetrics",
+         "url": "https://github.com/rnwolf/pandas_agile_metrics",
+         "desc": "Actionable Agile metrics analysis tool kit based on Python",
+         "group": null,
+         "kind": "repo"
+        },
+        {
+         "id": "m8v820",
+         "title": "aafmp",
+         "url": "https://savannah.nongnu.org/projects/aamfp",
+         "desc": "a simple personal kanban metrics spreadsheet",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "1mxk6wx",
+         "title": "jira-agile-velocity",
+         "url": "https://github.com/Fgerthoffert/jira-agile-velocity",
+         "desc": "Connect to Jira REST API to collect completed story points, calculate weekly velocity, and estimate completion date",
+         "group": null,
+         "kind": "repo"
+        },
+        {
+         "id": "s8tsuv",
+         "title": "Sprint Ledger",
+         "url": "https://damyor.github.io/sprint-ledger-docs/",
+         "desc": "Jira Cloud app: issues added to, removed from and carried over between sprints, as JQL functions and read-only fields",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "14vwfoh",
+         "title": "Weave",
+         "url": "https://weaveos.com",
+         "desc": "Engineering metrics from GitHub, GitLab, Bitbucket, Linear and Jira: code output, quality, review and DORA metrics, plus AI coding tool adoption and cost; free Starter plan",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "wy7pgv",
+         "title": "Aidealy",
+         "url": "https://aidealy.ai",
+         "desc": "Measures R&D productivity in the AI era, for engineers and AI agents: a productivity rank per engineer, code review work, how much of the code AI wrote (counted from Cursor and Claude Code records) and AI token cost per pull request. Connects to GitHub, GitLab, Bitbucket and Azure DevOps",
+         "group": null,
+         "kind": "article"
+        }
+       ]
+      },
+      {
+       "id": "practicing-tools-calendars",
+       "title": "Calendars",
+       "links": [
+        {
+         "id": "1njgglg",
+         "title": "Tutanota",
+         "url": "https://tutanota.com/calendar",
+         "desc": "Zero-knowledge calendar",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "1h1n1ha",
+         "title": "Proton Calendar",
+         "url": "https://calendar.protonmail.com",
+         "desc": "Encrypted calendar",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "138mwn7",
+         "title": "Calendso",
+         "url": "https://calendso.com/",
+         "desc": "The Open Source Calendly Alternative",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "waf24",
+         "title": "Calendly",
+         "url": "https://calendly.com/",
+         "desc": "Calendly is your hub for scheduling meetings professionally and efficiently, eliminating the hassle of back-and-forth emails so you can get back to work.",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "11dxyl5",
+         "title": "Appoint.ly",
+         "url": "https://appoint.ly/",
+         "desc": "Appointment scheduling software helps to book 1-on-1 meetings with people all over the world, avoid double booking and save time!",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "1mnypmm",
+         "title": "Zeeg",
+         "url": "https://zeeg.me/",
+         "desc": "Your smart business card! An advanced scheduling assistant with your own beautiful minimal website. Your Zeeg link is the only link you really need!",
+         "group": null,
+         "kind": "article"
+        }
+       ]
+      },
+      {
+       "id": "practicing-tools-time-management",
+       "title": "Time Management",
+       "links": [
+        {
+         "id": "e383be",
+         "title": "activitywatch",
+         "url": "https://github.com/ActivityWatch/activitywatch",
+         "desc": "Records what you do so that you can know how you've spent your time.",
+         "group": null,
+         "kind": "repo"
+        },
+        {
+         "id": "1wef1ig",
+         "title": "marinara",
+         "url": "https://github.com/schmich/marinara",
+         "desc": "Marinara is a time management assistant for Chrome that follows the Pomodoro Technique.",
+         "group": null,
+         "kind": "repo"
+        },
+        {
+         "id": "mg9euo",
+         "title": "pomotroid",
+         "url": "https://github.com/Splode/pomotroid",
+         "desc": "Simple and visually-pleasing Pomodoro timer",
+         "group": null,
+         "kind": "repo"
+        },
+        {
+         "id": "1scyxva",
+         "title": "pomatez",
+         "url": "https://github.com/roldanjr/pomatez",
+         "desc": "Stay Focused. Take a Break.",
+         "group": null,
+         "kind": "repo"
+        },
+        {
+         "id": "1ej2o10",
+         "title": "gnome-pomodoro",
+         "url": "https://github.com/gnome-pomodoro/gnome-pomodoro",
+         "desc": "A time management utility for GNOME based on the pomodoro technique!",
+         "group": null,
+         "kind": "repo"
+        },
+        {
+         "id": "1fm8f9x",
+         "title": "Goodtime",
+         "url": "https://github.com/adrcotfas/Goodtime",
+         "desc": "productivity app for Android",
+         "group": null,
+         "kind": "repo"
+        },
+        {
+         "id": "1exmpn0",
+         "title": "Yellow Tomato",
+         "url": "https://productive.fish/pomodoro-timer/",
+         "desc": "Simple Pomodoro timer for concentration at work",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "iejzc9",
+         "title": "Kiri",
+         "url": "https://project-kiri.com/",
+         "desc": "Focus timer and task list in one browser tab, with background sounds and the countdown in the tab title",
+         "group": null,
+         "kind": "article"
+        }
+       ]
+      },
+      {
+       "id": "practicing-tools-code-hosting",
+       "title": "Code Hosting",
+       "links": [
+        {
+         "id": "1chlr4a",
+         "title": "Github",
+         "url": "https://github.com",
+         "desc": "GitHub is where over 65 million developers shape the future of software, together​.",
+         "group": null,
+         "kind": "repo"
+        },
+        {
+         "id": "123ouga",
+         "title": "Gitlab",
+         "url": "https://gitlab.com",
+         "desc": "GitLab is the open DevOps platform",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "1rm7zzf",
+         "title": "Gitea",
+         "url": "https://gitea.com",
+         "desc": "A painless, self-hosted Git service",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "1mcm81r",
+         "title": "Sourcehut",
+         "url": "https://sr.ht",
+         "desc": "sourcehut, the hacker's forge!",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "1lir6v0",
+         "title": "Launchpad",
+         "url": "https://code.launchpad.net",
+         "desc": "Launchpad can host your project’s source code using the Bazaar version control system.",
+         "group": null,
+         "kind": "article"
+        }
+       ]
+      },
+      {
+       "id": "practicing-tools-time-tracking-and-contractor-management",
+       "title": "Time tracking and contractor management",
+       "links": [
+        {
+         "id": "7gdsve",
+         "title": "Invoiceninja",
+         "url": "https://github.com/invoiceninja/invoiceninja",
+         "desc": "Invoices, Expenses and Tasks built with Laravel and Flutter",
+         "group": null,
+         "kind": "repo"
+        },
+        {
+         "id": "ks1ntm",
+         "title": "Wakatime",
+         "url": "https://github.com/wakatime",
+         "desc": "Dashboards for developers, powered by open source IDE plugins.",
+         "group": null,
+         "kind": "repo"
+        },
+        {
+         "id": "e383be",
+         "title": "Activitywatch",
+         "url": "https://github.com/ActivityWatch/activitywatch",
+         "desc": "Records what you do so that you can know how you've spent your time.",
+         "group": null,
+         "kind": "repo"
+        },
+        {
+         "id": "fdirtz",
+         "title": "Super-productivity",
+         "url": "https://github.com/johannesjo/super-productivity",
+         "desc": "To-do list & time tracker for programmers and other digital workers with Jira, Github, and Gitlab integration",
+         "group": null,
+         "kind": "repo"
+        },
+        {
+         "id": "1bxli2r",
+         "title": "Toggldesktop",
+         "url": "https://github.com/toggl-open-source/toggldesktop",
+         "desc": "Toggl Desktop is a Toggl time tracking client",
+         "group": null,
+         "kind": "repo"
+        },
+        {
+         "id": "1oi8ziq",
+         "title": "Kimai2",
+         "url": "https://github.com/kevinpapst/kimai2",
+         "desc": "Kimai v2 is a web-based multiuser time-tracking application",
+         "group": null,
+         "kind": "repo"
+        },
+        {
+         "id": "9bwbyi",
+         "title": "ShareX",
+         "url": "https://github.com/ShareX/ShareX",
+         "desc": "ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key",
+         "group": null,
+         "kind": "repo"
+        }
+       ]
+      },
+      {
+       "id": "practicing-tools-mentoring",
+       "title": "Mentoring",
+       "links": [
+        {
+         "id": "18wfmy0",
+         "title": "developer-roadmap",
+         "url": "https://github.com/kamranahmedse/developer-roadmap",
+         "desc": "Roadmap to becoming a web developer in 2021",
+         "group": null,
+         "kind": "repo"
+        },
+        {
+         "id": "1n24uht",
+         "title": "awesome-quality-assurance-roadmap",
+         "url": "https://github.com/fityanos/awesome-quality-assurance-roadmap",
+         "desc": "The starting point of your career as a Software Quality Assurance Engineer — Quality Automation Engineer",
+         "group": null,
+         "kind": "repo"
+        },
+        {
+         "id": "12kucl0",
+         "title": "design-patterns-for-humans",
+         "url": "https://github.com/kamranahmedse/design-patterns-for-humans",
+         "desc": "An ultra-simplified explanation to design patterns",
+         "group": null,
+         "kind": "repo"
+        },
+        {
+         "id": "bz5zas",
+         "title": "ossu/computer-science",
+         "url": "https://github.com/ossu/computer-science",
+         "desc": "Path to a free self-taught education in Computer Science!",
+         "group": null,
+         "kind": "repo"
+        },
+        {
+         "id": "jfacp7",
+         "title": "awesome-falsehood",
+         "url": "https://github.com/kdeldycke/awesome-falsehood",
+         "desc": "Falsehoods Programmers Believe in",
+         "group": null,
+         "kind": "repo"
+        },
+        {
+         "id": "l5w6ab",
+         "title": "systemdesign",
+         "url": "https://github.com/shashank88/system_design",
+         "desc": "Preparation links and resources for system design questions",
+         "group": null,
+         "kind": "repo"
+        },
+        {
+         "id": "evrz8h",
+         "title": "study-path",
+         "url": "https://github.com/joebew42/study-path",
+         "desc": "An organized learning path about Clean Code, Test-Driven Development, Legacy Code, Refactoring, Domain-Driven Design and Microservice Architecture",
+         "group": null,
+         "kind": "repo"
+        },
+        {
+         "id": "wdk4t6",
+         "title": "best-practices-checklist",
+         "url": "https://github.com/palash25/best-practices-checklist",
+         "desc": "A list of awesome idiomatic code resources.",
+         "group": null,
+         "kind": "repo"
+        },
+        {
+         "id": "1g9ooto",
+         "title": "pointers-for-software-engineers",
+         "url": "https://github.com/vicoyeh/pointers-for-software-engineers",
+         "desc": "A curated list of topics to start learning software engineering",
+         "group": null,
+         "kind": "repo"
+        },
+        {
+         "id": "13utyy0",
+         "title": "evergreen-skills-developers",
+         "url": "https://github.com/romenrg/evergreen-skills-developers",
+         "desc": "List of evergreen skills, based on software development best practices & cross-framework principles, that should serve as a fair assessment of skilled software engineers / developers",
+         "group": null,
+         "kind": "repo"
+        },
+        {
+         "id": "1byesr2",
+         "title": "awesome-courses",
+         "url": "https://github.com/prakhar1989/awesome-courses",
+         "desc": "List of awesome university courses for learning Computer Science!",
+         "group": null,
+         "kind": "repo"
+        },
+        {
+         "id": "1y03m31",
+         "title": "awesome-testing-courses",
+         "url": "https://github.com/upgundecha/awesome-testing-courses",
+         "desc": "A curated list of awesome online courses and tutorials on software testing, test automation and more.",
+         "group": null,
+         "kind": "repo"
+        },
+        {
+         "id": "1x1f341",
+         "title": "System design primer",
+         "url": "https://github.com/donnemartin/system-design-primer",
+         "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+         "group": null,
+         "kind": "repo"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "learning",
+   "title": "Learning",
+   "areas": [
+    {
+     "id": "learning-books",
+     "title": "Books",
+     "topics": [
+      {
+       "id": "learning-books-books",
+       "title": "Books",
+       "links": [
+        {
+         "id": "odw1ut",
+         "title": "The Manager's Path",
+         "url": "https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897",
+         "desc": "",
+         "group": null,
+         "kind": "book"
+        },
+        {
+         "id": "5gi7hj",
+         "title": "The Making of a Manager",
+         "url": "https://www.amazon.com/Making-Manager-What-Everyone-Looks/dp/0735219567",
+         "desc": "",
+         "group": null,
+         "kind": "book"
+        },
+        {
+         "id": "ssnq8r",
+         "title": "An Elegant Puzzle",
+         "url": "https://www.amazon.com/Elegant-Puzzle-Systems-Engineering-Management/dp/1732265186/",
+         "desc": "",
+         "group": null,
+         "kind": "book"
+        },
+        {
+         "id": "v04qgk",
+         "title": "High Growth Handbook",
+         "url": "https://www.amazon.com/High-Growth-Handbook-Elad-Gil/dp/1732265100/",
+         "desc": "",
+         "group": null,
+         "kind": "book"
+        },
+        {
+         "id": "1odfwi1",
+         "title": "Accelerate: The Science of Lean Software and DevOps",
+         "url": "https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339/",
+         "desc": "",
+         "group": null,
+         "kind": "book"
+        },
+        {
+         "id": "1mapih2",
+         "title": "Managing the Unmanageable",
+         "url": "https://www.amazon.com/Managing-Unmanageable-2nd-Mickey-Mantle/dp/0135667364/",
+         "desc": "",
+         "group": null,
+         "kind": "book"
+        },
+        {
+         "id": "1ui3o54",
+         "title": "Mythical Man-Month",
+         "url": "https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959/",
+         "desc": "",
+         "group": null,
+         "kind": "book"
+        },
+        {
+         "id": "9g6caj",
+         "title": "The DevOps Handbook",
+         "url": "https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002/",
+         "desc": "",
+         "group": null,
+         "kind": "book"
+        },
+        {
+         "id": "1j82whw",
+         "title": "Team Topologies",
+         "url": "https://www.amazon.com/Team-Topologies-Organizing-Business-Technology/dp/1942788819",
+         "desc": "",
+         "group": null,
+         "kind": "book"
+        },
+        {
+         "id": "1lwdkp7",
+         "title": "The Gitlab handbook",
+         "url": "https://about.gitlab.com/handbook/leadership/",
+         "desc": "",
+         "group": null,
+         "kind": "book"
+        },
+        {
+         "id": "10xcene",
+         "title": "The Manager's Handbook",
+         "url": "https://themanagershandbook.com",
+         "desc": "",
+         "group": null,
+         "kind": "book"
+        },
+        {
+         "id": "1s65r",
+         "title": "Attest Engineering Handbook",
+         "url": "https://attest.dev/handbook/engineering-management-growth-framework/",
+         "desc": "",
+         "group": null,
+         "kind": "book"
+        },
+        {
+         "id": "6ywpwx",
+         "title": "https://monzo.com/documents/engineering-manager-framework-v1-0.pdf",
+         "url": "https://monzo.com/documents/engineering-manager-framework-v1-0.pdf",
+         "desc": "",
+         "group": null,
+         "kind": "book"
+        },
+        {
+         "id": "1tv2zft",
+         "title": "The Staff Engineer's Path",
+         "url": "https://www.amazon.com/Staff-Engineers-Path-Tanya-Reilly-ebook/dp/B0BG16Y553",
+         "desc": "",
+         "group": null,
+         "kind": "book"
+        },
+        {
+         "id": "1fko4u",
+         "title": "Management 3.0",
+         "url": "https://www.amazon.com/Management-3-0-Leading-Developers-Developers/dp/0321712471",
+         "desc": "",
+         "group": null,
+         "kind": "book"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "learning-courses",
+     "title": "Courses",
+     "topics": [
+      {
+       "id": "learning-courses-courses",
+       "title": "Courses",
+       "links": [
+        {
+         "id": "1vqekfl",
+         "title": "Engineering Management Interview Course - Exponent",
+         "url": "https://www.tryexponent.com/courses/engineering-management",
+         "desc": "",
+         "group": null,
+         "kind": "course"
+        },
+        {
+         "id": "tweekd",
+         "title": "Foundations of Project Management by Google - Coursera",
+         "url": "https://www.coursera.org/learn/project-management-foundations",
+         "desc": "",
+         "group": null,
+         "kind": "course"
+        },
+        {
+         "id": "xa5ue",
+         "title": "Ace Manager Job Interview & Career (Engineering Tech & Other - Udemy",
+         "url": "https://www.udemy.com/course/acemanager/",
+         "desc": "",
+         "group": null,
+         "kind": "course"
+        },
+        {
+         "id": "wzmeb9",
+         "title": "Practical Team Management for Software Engineers - PluralSight",
+         "url": "https://www.pluralsight.com/courses/practical-team-management-software-engineers",
+         "desc": "",
+         "group": null,
+         "kind": "course"
+        },
+        {
+         "id": "9yukuw",
+         "title": "TutorialSearch",
+         "url": "https://tutorialsearch.io/browse/ai-machine-learning/data-engineering",
+         "desc": "Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.",
+         "group": null,
+         "kind": "course"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "learning-podcasts",
+     "title": "Podcasts",
+     "topics": [
+      {
+       "id": "learning-podcasts-podcasts",
+       "title": "Podcasts",
+       "links": [
+        {
+         "id": "1wnml02",
+         "title": "Dev Interrupted",
+         "url": "https://devinterrupted.com/podcast/",
+         "desc": "Engineering leadership and developer productivity, hosted by LinearB.",
+         "group": null,
+         "kind": "podcast"
+        },
+        {
+         "id": "1oje1mu",
+         "title": "Chain of Thought",
+         "url": "https://chainofthought.show",
+         "desc": "AI infrastructure and developer tools, with interviews from engineering leaders and technical founders.",
+         "group": null,
+         "kind": "podcast"
+        },
+        {
+         "id": "1ha6nr",
+         "title": "The Engineering Manager Podcast",
+         "url": "https://www.theengineeringmanager.com/podcast/",
+         "desc": "Weekly conversations on management, hiring, culture, and scaling engineering teams.",
+         "group": null,
+         "kind": "podcast"
+        },
+        {
+         "id": "bp40y1",
+         "title": "Soft Skills Engineering",
+         "url": "https://softskills.audio/",
+         "desc": "Weekly advice on the non-technical side of software development.",
+         "group": null,
+         "kind": "podcast"
+        },
+        {
+         "id": "1tknl7d",
+         "title": "Level Up Engineering",
+         "url": "https://codingsans.com/engineering-management-podcast",
+         "desc": "Engineering leadership lessons from CTOs and VPs of Engineering.",
+         "group": null,
+         "kind": "podcast"
+        },
+        {
+         "id": "8nvj3y",
+         "title": "Engineering Culture by InfoQ",
+         "url": "https://www.infoq.com/engineering-culture-podcast/",
+         "desc": "Building engineering organizations and culture at scale.",
+         "group": null,
+         "kind": "podcast"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "learning-useful-resources",
+     "title": "Useful resources",
+     "topics": [
+      {
+       "id": "learning-useful-resources-useful-resources",
+       "title": "Useful resources",
+       "links": [
+        {
+         "id": "kt3sdt",
+         "title": "Career Ladders",
+         "url": "https://career-ladders.dev",
+         "desc": "Roles and responsibilities of various members of tech.",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "yrlb7c",
+         "title": "Engineering Ladders",
+         "url": "http://www.engineeringladders.com/",
+         "desc": "A framework for Engineering Managers",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "a701xg",
+         "title": "progression.fyi",
+         "url": "https://progression.fyi/",
+         "desc": "Career framework inspiration from the world's best companies.",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "64vsjb",
+         "title": "levels.fyi",
+         "url": "http://levels.fyi/",
+         "desc": "Compensations at various levels",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "8rauc8",
+         "title": "roadmaps.sh",
+         "url": "https://roadmap.sh/",
+         "desc": "Engineering career roadmaps",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "wqy4wc",
+         "title": "AI Interview Coach",
+         "url": "https://em-tools.io/interview-prep",
+         "desc": "Voice-based AI behavioral interview practice for engineering managers and software engineers",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "xzom1m",
+         "title": "Blog for Engineering Managers",
+         "url": "https://blog4ems.com",
+         "desc": "Practical guidance, templates, and resources for engineering managers",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "vmakby",
+         "title": "Leadership in Tech",
+         "url": "https://leadershipintech.com/",
+         "desc": "A curated weekly newsletter for tech leaders.",
+         "group": null,
+         "kind": "article"
+        },
+        {
+         "id": "igi7j0",
+         "title": "The Leadership Library",
+         "url": "https://mutaafaziz.com/library/",
+         "desc": "Engineering leadership book notes: labelled summaries of The Manager's Path, An Elegant Puzzle, Peopleware, Accelerate and more, with an engineering manager's reflections",
+         "group": null,
+         "kind": "article"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "learning-related-awesome-lists",
+     "title": "Related Awesome Lists",
+     "topics": [
+      {
+       "id": "learning-related-awesome-lists-related-awesome-lists",
+       "title": "Related Awesome Lists",
+       "links": [
+        {
+         "id": "13vba7z",
+         "title": "the-engineering-managers-booklist",
+         "url": "https://github.com/jesselpalmer/the-engineering-managers-booklist",
+         "desc": "Books for people who are or aspire to manage/lead team(s) of software engineers",
+         "group": null,
+         "kind": "repo"
+        },
+        {
+         "id": "lnidxu",
+         "title": "awesome-cto",
+         "url": "https://github.com/kuchin/awesome-cto",
+         "desc": "A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups",
+         "group": null,
+         "kind": "repo"
+        },
+        {
+         "id": "j7imj1",
+         "title": "awesome-startup",
+         "url": "https://github.com/KrishMunot/awesome-startup",
+         "desc": "All the required resources to build your own startup",
+         "group": null,
+         "kind": "repo"
+        },
+        {
+         "id": "bkihvw",
+         "title": "engineering-management",
+         "url": "https://github.com/charlax/engineering-management",
+         "desc": "A collection of inspiring resources related to engineering management and tech leadership",
+         "group": null,
+         "kind": "repo"
+        },
+        {
+         "id": "h17nk1",
+         "title": "awesome-leading-and-managing",
+         "url": "https://github.com/LappleApple/awesome-leading-and-managing",
+         "desc": "Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.",
+         "group": null,
+         "kind": "repo"
+        },
+        {
+         "id": "1c0o2pr",
+         "title": "awesome-engineering-team-management",
+         "url": "https://github.com/kdeldycke/awesome-engineering-team-management",
+         "desc": "How to transition from software development to engineering management",
+         "group": null,
+         "kind": "repo"
+        },
+        {
+         "id": "8q1j1o",
+         "title": "engineering-blogs",
+         "url": "https://github.com/kilimchoi/engineering-blogs",
+         "desc": "A curated list of engineering blogs",
+         "group": null,
+         "kind": "repo"
+        },
+        {
+         "id": "1frjkd0",
+         "title": "empathy-in-engineering",
+         "url": "https://github.com/KimberlyMunoz/empathy-in-engineering",
+         "desc": "A curated list of resources for building and promoting more compassionate engineering cultures",
+         "group": null,
+         "kind": "repo"
+        },
+        {
+         "id": "zp5b12",
+         "title": "awesome-project-management",
+         "url": "https://github.com/shahedbd/awesome-project-management",
+         "desc": "Awesome lists about Project Management interesting and useful topics.",
+         "group": null,
+         "kind": "repo"
+        },
+        {
+         "id": "1pqbpty",
+         "title": "engineer-manager",
+         "url": "https://github.com/ryanburgess/engineer-manager",
+         "desc": "A list of engineering manager resource links.",
+         "group": null,
+         "kind": "repo"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "laws-to-live-by",
+   "title": "Laws to live by",
+   "areas": [
+    {
+     "id": "laws-to-live-by-overview",
+     "title": "Laws to live by",
+     "topics": [
+      {
+       "id": "laws-to-live-by-laws-to-live-by-laws-to-live-by",
+       "title": "Laws to live by",
+       "links": [
+        {
+         "id": "hsa3ja",
+         "title": "Laws to live by",
+         "url": "https://github.com/dwmkerr/hacker-laws",
+         "desc": "",
+         "group": null,
+         "kind": "repo"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
